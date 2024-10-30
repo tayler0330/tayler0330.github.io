@@ -57,7 +57,7 @@ body {
 	top: 0;
 	left: 0;
 	z-index: -1;
-	background: #3460b2 url("images/bg.jpg") bottom left;
+	background: #3460b2 url("images/bj.jpg") bottom left;
 	background-repeat: repeat-x;
 	background-size: cover;
 }
@@ -170,7 +170,7 @@ body {
 /* Headshot Section Styling */
 .right {
 	right: 5%;
-	background: url("images/wiwiw.jpg") 51% 53%; /* Moved image down for better focus */
+	background: url("images/wiwiw.JPG") 51% 53%; /* Moved image down for better focus */
 	background-size: 300%; /* Significantly increased zoom */
 	border-radius: 50%;
 	width: 400px; /* 2x larger */
